@@ -1,0 +1,44 @@
+body {
+    background-image: url(Images/UsePic.png);
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    display: inline-block;
+    width: 100px;
+    
+}
+
+.xkh1{
+    text-align: center !important;
+    text-transform: uppercase !important;
+    color: white;
+    font-size: 42px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.xkdivone {
+    position: absolute;
+    left: 680px;
+    top: 450px;
+}
+
+.xkdivtwo {
+    position: absolute;
+    left: 645px;
+    top: 520px;
+}
+
+.btn-primary {
+    width: 100px;
+}
+
+.btn-danger {
+    width: 100px;
+}
+
+.btn-dark {
+    width: 100px;
+}
